@@ -1,0 +1,11 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Games Concepts Assignment - 2.cpp
+C:\Users\NEYMAR JOY\Documents\CO 1301- Games Concepts\Games Concepts Assignment - 2\Games Concepts Assignment - 2.cpp(446,44): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\NEYMAR JOY\Documents\CO 1301- Games Concepts\Games Concepts Assignment - 2\Games Concepts Assignment - 2.cpp(446,36): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\NEYMAR JOY\Documents\CO 1301- Games Concepts\Games Concepts Assignment - 2\Games Concepts Assignment - 2.cpp(455,48): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\NEYMAR JOY\Documents\CO 1301- Games Concepts\Games Concepts Assignment - 2\Games Concepts Assignment - 2.cpp(455,40): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\NEYMAR JOY\Documents\CO 1301- Games Concepts\Games Concepts Assignment - 2\Games Concepts Assignment - 2.cpp(468,43): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\NEYMAR JOY\Documents\CO 1301- Games Concepts\Games Concepts Assignment - 2\Games Concepts Assignment - 2.cpp(468,35): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\NEYMAR JOY\Documents\CO 1301- Games Concepts\Games Concepts Assignment - 2\Games Concepts Assignment - 2.cpp(401,20): warning C4101: 'checkAxis': unreferenced local variable
+  Games Concepts Assignment - 2.vcxproj -> C:\Users\NEYMAR JOY\Documents\CO 1301- Games Concepts\Games Concepts Assignment - 2\Games Concepts Assignment - 2Debug.exe
+  Copying DLLs & shaders...
